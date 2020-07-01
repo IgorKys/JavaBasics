@@ -4,7 +4,7 @@ public class ReplaceFunction {
 
 	public static void main(String[] args) {
 
-		String me = "I am a food tester";
+		String me = "I am a good tester";
 
 		String str = "Hello";
 

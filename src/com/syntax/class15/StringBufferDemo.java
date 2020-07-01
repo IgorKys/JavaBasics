@@ -15,7 +15,7 @@ public class StringBufferDemo {
 
 		
 
-		String str2="Hello";//String is Immutable object=not changeble
+		String str2="Hello";//String is Immutable object=not changeable
 
 		str2.concat(" friends");//new Object gets created that will have value "Hello friends"--> no one takes it
 
