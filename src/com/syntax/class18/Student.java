@@ -1,6 +1,6 @@
 package com.syntax.class18;
 
-public class Students {
+public class Student {
 
 //	Create a Class called Students
 //	Create three  variables  studentName , studentID  and  numberOfStudents
@@ -18,22 +18,22 @@ public class Students {
 
 	public static void main(String[] args) {
 
-		Students student1 = new Students();
+		Student student1 = new Student();
 		student1.studentName = "Igor";
 		student1.studentID = 12345;
-		Students.numberOfStudents++;
+		Student.numberOfStudents++;
 
-		Students student2 = new Students();
+		Student student2 = new Student();
 		student2.studentName = "Igor";
 		student2.studentID = 12345;
-		Students.numberOfStudents++;
+		Student.numberOfStudents++;
 
-		Students student3 = new Students();
+		Student student3 = new Student();
 		student3.studentName = "Igor";
 		student3.studentID = 12345;
-		Students.numberOfStudents++;
+		Student.numberOfStudents++;
 
-		Students.total();
+		Student.total();
 
 	}
 

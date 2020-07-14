@@ -6,6 +6,7 @@ public class Task1 {
 	// of all elements from that array. Method should be visibly only within same
 	// package and accessible by the creating an instance of the class.
 
+	
 
 	protected int returSum(int[] array) {
 		int sum = 0;
