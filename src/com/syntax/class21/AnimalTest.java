@@ -40,6 +40,41 @@ public class AnimalTest {
 
 		// create an Object of Cat class
 
-	}
+		Cat cat = new Cat();
 
+		cat.fur = "White";
+
+		cat.breed = "American Curl";
+
+		cat.color = "Grey";
+
+		cat.paws = 4;
+
+		cat.tail = true;
+
+		cat.eat();
+
+		cat.sleep();
+
+		cat.purr();
+
+		Kitten kitten = new Kitten();
+
+		kitten.fur = "Black";
+
+		kitten.breed = "American Curl";
+
+		kitten.color = "Grey";
+
+		kitten.paws = 4;
+
+		kitten.tail = true;
+
+		kitten.eat();
+
+		kitten.sleep();
+
+		kitten.purr();
+
+	}
 }
