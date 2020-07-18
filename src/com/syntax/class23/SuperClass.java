@@ -1,7 +1,5 @@
 package com.syntax.class23;
 
-import javax.sql.rowset.spi.SyncFactory;
-
 public class SuperClass {
 
 	String name = "Kamila";
