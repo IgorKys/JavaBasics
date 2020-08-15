@@ -29,7 +29,7 @@ public class AllMaps {
 		mall.put("T-Shirt", 15.99);
 		mall.put("Shoes", 99.99);
 		mall.put("Soap", 1.99);
-		mall.put("Colone", 99.99);
+		mall.put("Colone", 9.99);
 		mall.put("Tea", 3.99);
 
 		System.out.println(mall);
